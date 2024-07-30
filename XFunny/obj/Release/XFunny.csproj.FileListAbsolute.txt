@@ -1,0 +1,7 @@
+C:\Users\Jeysson Paiva\Documents\Visual Studio 2010\xfunny\XFunny\bin\Release\XFunny Framework.ico
+C:\Users\Jeysson Paiva\Documents\Visual Studio 2010\xfunny\XFunny\bin\Release\XFunnyClasse.ico
+C:\Users\Jeysson Paiva\Documents\Visual Studio 2010\xfunny\XFunny\bin\Release\ItemTemplates\XFunny\Persistent Class.zip
+C:\Users\Jeysson Paiva\Documents\Visual Studio 2010\xfunny\XFunny\bin\Release\XFunny.dll
+C:\Users\Jeysson Paiva\Documents\Visual Studio 2010\xfunny\XFunny\bin\Release\XFunny.pdb
+C:\Users\Jeysson Paiva\Documents\Visual Studio 2010\xfunny\XFunny\obj\Release\XFunny.dll
+C:\Users\Jeysson Paiva\Documents\Visual Studio 2010\xfunny\XFunny\obj\Release\XFunny.pdb

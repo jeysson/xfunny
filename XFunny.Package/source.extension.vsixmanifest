@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
+  <Identifier Id="XFunny.Package.Hewlett-Packard.ec4eda79-7f5e-4573-b795-b699be95e09b">
+    <Name>XFunny</Name>
+    <Author>Funny Systems</Author>
+    <Version>1.0.0</Version>
+    <Description xml:space="preserve">Framework quick create databases based in class.</Description>
+    <Locale>1033</Locale>
+    <Icon>XFunnyClasse.ico</Icon>
+    <SupportedProducts>
+      <VisualStudio Version="10.0">
+        <Edition>Ultimate</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Pro</Edition>
+        <Edition>VCSExpress</Edition>
+      </VisualStudio>
+    </SupportedProducts>
+    <InstalledByMsi>true</InstalledByMsi>
+    <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.0" />       
+  </Identifier>
+  <References />
+  <Content>
+    <ItemTemplate>ItemTemplates</ItemTemplate>
+  </Content>
+</Vsix>
