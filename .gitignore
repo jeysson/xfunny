@@ -1,0 +1,37 @@
+# Diretórios do .NET
+bin/
+obj/
+out/
+
+# Arquivos de configuração do Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.suo
+*.vscode/
+
+# Arquivos de configuração do Rider
+.idea/
+
+# Arquivos de cache do NuGet
+.nuget/
+packages/
+
+# Arquivos de build do .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Diretórios e arquivos do ASP.NET Core
+wwwroot/
+*.dll
+*.exe
+
+# Arquivos temporários do sistema
+*.tmp
+*.log
+
+# Arquivos do sistema de arquivos
+.DS_Store
+Thumbs.db
